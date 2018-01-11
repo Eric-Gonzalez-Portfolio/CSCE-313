@@ -1,0 +1,3 @@
+00400000-00405000 r-xp 00000000 00:1a 41089774                           /home/ugrads/g/gonzalee/CSCE_313_Tyagi/MP3/part1/client
+00604000-00605000 r--p 00004000 00:1a 41089774                           /home/ugrads/g/gonzalee/CSCE_313_Tyagi/MP3/part1/client
+00605000-00606000 rw-p 00005000 00:1a 41089774                           /home/ugrads/g/gonzalee/CSCE_313_Tyagi/MP3/part1/client
